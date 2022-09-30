@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Xu Tang's User page**
 ## text quote
 > *We must cultivate our garden*
@@ -26,3 +27,6 @@ DeepL translator is my favorite translator.
 - [x] java
 - [x] python
 - [x] html
+=======
+
+>>>>>>> 130d4126aea6db7c5eb425d531120e923d70c30e
