@@ -11,7 +11,7 @@ The user page is built out of requirements for [[UCSD CSE Department](https://cs
 
 ## [Favorite translator](https://www.deepl.com/en/translator)
 DeepL translator is my favorite translator.
-## image section
+## latest favorite anime character
 ![lucy](https://github.com/XuTang9/Lab1/blob/creating-webpage/lucy.jpeg)
 ## favorite book
 Candide by Voltaire(quote at the beginning)
