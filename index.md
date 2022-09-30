@@ -15,6 +15,8 @@ DeepL translator is my favorite translator.
 ![lucy](https://github.com/XuTang9/Lab1/blob/creating-webpage/lucy.jpeg)
 ## favorite book
 Candide by Voltaire(quote at the beginning)
+## APEX Legends hero names
+[name file](/relative.md)
 ## favorite food
 - pizza
 - noodles
