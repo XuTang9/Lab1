@@ -1,4 +1,6 @@
 # **Xu Tang's User page**
+## Intro
+My major is Cognitive Science B.S. with a specialization in Design and Interaction and also minor in computer science. I like watch TV shows and anime and Cyberpunk edgerunner was definitely my favorite lately. Also I skate and hoop on the weekends. On weekdays I mostly focus on classes. 
 ## text quote
 > *We must cultivate our garden*
 
@@ -12,7 +14,8 @@ The user page is built out of requirements for [[UCSD CSE Department](https://cs
 ## [Favorite translator](https://www.deepl.com/en/translator)
 DeepL translator is my favorite translator.
 ## latest favorite anime character
-![lucy](https://github.com/XuTang9/Lab1/blob/creating-webpage/lucy.jpeg)
+[![lucy.jpg](https://i.postimg.cc/mrVJP4g1/lucy.jpg)](https://postimg.cc/JyDPF9JR)
+
 ## favorite book
 Candide by Voltaire(quote at the beginning)
 ## APEX Legends hero names
